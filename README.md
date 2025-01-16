@@ -20,7 +20,6 @@ This project is a simple and clean portfolio website built using **HTML, CSS, an
 ### **Technologies Used**
 - **HTML5** for the structure
 - **CSS3** for styling
-- **Bootstrap** for responsiveness
 - **JavaScript** for form handling
 
 ## About Me
