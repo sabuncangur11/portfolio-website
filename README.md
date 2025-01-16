@@ -4,7 +4,7 @@ Welcome to my professional portfolio website. This portfolio showcases a collect
 
 ## Live Website
 You can view my portfolio live on GitHub Pages:  
-[My Portfolio](https://github.com/sabuncangur11)
+[My Portfolio](https://sabuncangur11.github.io/portfolio-website/)
 
 ## Project Description
 
